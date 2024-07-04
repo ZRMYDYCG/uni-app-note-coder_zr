@@ -1,5 +1,3 @@
-## requst Api
-
 在 `uni-app` 的 `request` API 中，如果开发者在 GET 请求中将参数放在 `data` 字段中，`uni-app` 会自动将这些参数转换为查询字符串并附加到请求的 URL 上。这是 `uni-app` 为了简化开发而提供的特性，允许开发者以类似发送 POST 请求的方式处理 GET 请求的参数。
 
 以下是 `uni-app` 中发送 GET 请求的代码示例：
